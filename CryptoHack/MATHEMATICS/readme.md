@@ -15,7 +15,7 @@ Sử dụng CRT để tìm x với từng p brute-force. Nếu tồn tại x th�
 Cách này cần một chút quan sát :eyes: thoiiii. <br>
 
 Mình sẽ lấy 2 cặp: <br>
-$113x  \equiv 642 \pmod và 114x  \equiv 851 \pmod p$
+$113x  \equiv 642 \pmod p$ và $114x  \equiv 851 \pmod p$
 
 Suy ra: $x = 851 - 642 = 209$
 Khi đã có x thì tìm p khá đơn giản :).
