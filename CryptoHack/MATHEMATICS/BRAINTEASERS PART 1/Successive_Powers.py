@@ -1,7 +1,6 @@
 from sympy import nextprime
 from Crypto.Util.number import inverse
 from sage.all import crt
-import sys
 
 ints = [588, 665, 216, 113, 642, 4, 836, 114, 851, 492, 819, 237]
 p = 851
