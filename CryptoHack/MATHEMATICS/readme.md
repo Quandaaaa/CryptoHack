@@ -17,8 +17,9 @@ Cách này cần một chút quan sát :eyes: thoiiii. <br>
 Mình sẽ lấy 2 cặp: <br>
 $\begin{cases}
    113x  \equiv 642 \pmod p \\
-   114x  \equiv 851 \pmod p \end{cases}$
-
+   114x  \equiv 851 \pmod p 
+\end{cases}$
+$\to 588x \equiv 665\pmod p$ tương tự $665x \equiv 216\pmod p, \dots$ <br>
 Suy ra: $x = 851 - 642 = 209$
 Khi đã có x thì tìm p khá đơn giản :).
 
